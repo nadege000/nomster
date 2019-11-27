@@ -35,7 +35,9 @@ gem 'simple_form', '~> 5.0', '>= 5.0.1'
 gem 'figaro', '~> 1.1', '>= 1.1.1'
 # gem 'capistrano-rails', group: :development
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
+# Geocoder API Key
 gem 'geocoder', '~> 1.5', '>= 1.5.2'
+gem 'carrierwave', '~> 2.0', '>= 2.0.2'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
