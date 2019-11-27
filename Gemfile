@@ -32,7 +32,7 @@ gem 'will_paginate', '~> 3.2', '>= 3.2.1'
 gem 'simple_form', '~> 5.0', '>= 5.0.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
